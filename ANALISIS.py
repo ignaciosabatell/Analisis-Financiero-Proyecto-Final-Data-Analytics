@@ -99,8 +99,8 @@ st.markdown("""
 
 #Comienza el análisis
 
-st.image("/Users/ignaciosabatel/Documents/final_project/imagenes/1.png", use_container_width=True)
-st.image("/Users/ignaciosabatel/Documents/final_project/imagenes/2.png", use_container_width=True)
+st.image("imagenes/1.png", use_container_width=True)
+st.image("imagenes/2.png", use_container_width=True)
 
 btc=pd.read_csv("datos limpios/btc_limpio.csv")
 oro=pd.read_csv("datos limpios/oro_limpio.csv")
