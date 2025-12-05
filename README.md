@@ -1,7 +1,8 @@
 # Análisis Económico de Activos Financieros y Calculadora de Inversión
 
 Este es mi trabajo final del bootcamp de Data Analytics y tiene como objetivo analizar distintos activos financieros y evaluar cómo proteger el dinero frente a la inflación.
-Incluye además una **calculadora interactiva** que muestra el poder del interés compuesto y el impacto de realizar aportaciones periódicas mediante *Dollar Cost Averaging (DCA)*.
+Incluye además una **calculadora interactiva** que muestra el poder del interés compuesto y el impacto de realizar aportaciones periódicas mediante *Dollar Cost Averaging (DCA).
+
 👉 *https://proyecto-final-finanzas-ignaciosabatell.streamlit.app/*
 ---
 
